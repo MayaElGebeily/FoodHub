@@ -1,7 +1,5 @@
-# my_apps
-
-A new Flutter project.
-
+# 
+an app specified for cloud kitchen buisness
 ## Getting Started
 
 This project is a starting point for a Flutter application.
